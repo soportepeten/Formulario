@@ -1,0 +1,7 @@
+{
+  "name": "Portal Telesecundaria - MINEDUC Guatemala",
+  "description": "Plataforma oficial de consulta CUI, expediente docente y encuesta de asignación y permanencia de Telesecundaria del Ministerio de Educación de Guatemala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
